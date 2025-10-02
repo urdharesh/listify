@@ -16,7 +16,7 @@ Listify is a lightweight and easy-to-use frontend web app for managing daily tas
 
 🛠️ Tech Stack
 
-React.js (Frontend framework)
+HTML 5
 
 CSS (Styling)
 
